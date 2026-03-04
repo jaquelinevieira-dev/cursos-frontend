@@ -4,7 +4,7 @@ Este projeto apresenta uma página informativa sobre cursos e conteúdos de fron
 
 ##  Demonstração
 
-Acesse o site online: [https://jakis19.github.io/cursos-frontend/]( https://jaquelinevieira-dev.github.io/cursos-frontend/)
+Acesse o site online: https://jaquelinevieira-dev.github.io/cursos-frontend/
 
 ##  Estrutura do Projeto
 
