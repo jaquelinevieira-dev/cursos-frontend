@@ -4,7 +4,7 @@ Este projeto apresenta uma página informativa sobre cursos e conteúdos de fron
 
 ##  Demonstração
 
-Acesse o site online: [https://jakis19.github.io/cursos-frontend/](https://jakis19.github.io/cursos-frontend/)
+Acesse o site online: [https://jakis19.github.io/cursos-frontend/]( https://jaquelinevieira-dev.github.io/cursos-frontend/)
 
 ##  Estrutura do Projeto
 
@@ -22,7 +22,7 @@ Acesse o site online: [https://jakis19.github.io/cursos-frontend/](https://jakis
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/jakis19/cursos-frontend.git
+   git clone  https://jaquelinevieira-dev.github.io/cursos-frontend/
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
